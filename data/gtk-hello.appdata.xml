@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Josué Israel Martell Castro <josue.martell17@gmail.com> -->
+<component type="desktop">
+    <id>com.github.josushu0.first-gtk</id>
+    <metadata-license>CC0</metadata-license>
+    <name>Gtk Hello</name>
+    <summary>Proves that we can use Vala and Gtk</summary>
+    <description>
+        <p>Aplicación con un label que dice hola mundo y ya</p>
+    </description>
+    <custom>
+        <value key="x-appcenter-color-primary">#603461</value>
+        <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+        <value key="x-appcenter-suggested-price">5</value>
+    </custom>
+</component>
