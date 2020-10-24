@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Gtk Hello
+GenericName=Hello World App
+Comment=Proves that we can use Vala and Gtk
+Categories=Utilitiy;Education;
+Exec=com.github.josushu0.first-gtk
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keyworld=Hello;World;Example
